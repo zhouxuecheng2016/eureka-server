@@ -7,3 +7,5 @@ Hello,user5
 Hello,user6
 >>>>>>> hello
 hello,user3
+Hello, user1.
+Hello,user2.
